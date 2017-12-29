@@ -124,7 +124,7 @@ for i in range(5):
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_12_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_12_0.png)
 
 
 ## First Analysis of `data_db`
@@ -144,7 +144,7 @@ plt.grid()
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_14_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_14_0.png)
 
 
 The figure above tells us that, as the first variable (1st pixel) raises, the second variable (2nd pixel) raises as well. This is a possible indication that both variables are **correlated**.
@@ -191,7 +191,7 @@ plt.axis('off')
 
 
 
-![png](faces_data_analysis_files/faces_data_analysis_19_1.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_19_1.png)
 
 
 ### Step 2:
@@ -232,7 +232,7 @@ for i in range(5):
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_24_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_24_0.png)
 
 
 It looks strange at first, but what these eigenfaces are telling us is that we don't need individual pixels to represent each face of my dataset. This comes really handy when we want to reconize someone using only the relevant features to avoid overfitting.
@@ -256,7 +256,7 @@ for i,w in enumerate([1000*k for k in range(-6,7,2)]):
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_27_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_27_0.png)
 
 
 ### Second Component
@@ -270,7 +270,7 @@ for i,w in enumerate([1000*k for k in range(-6,7,2)]):
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_29_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_29_0.png)
 
 
 ### Third Component
@@ -284,7 +284,7 @@ for i,w in enumerate([1000*k for k in range(-6,7,2)]):
 ```
 
 
-![png](faces_data_analysis_files/faces_data_analysis_31_0.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_31_0.png)
 
 
 ### Combining Components
@@ -321,7 +321,7 @@ plt.axis('off')
 
 
 
-![png](faces_data_analysis_files/faces_data_analysis_36_1.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_36_1.png)
 
 
 Obviously, we don't need all 400 Components to represent a face with statistical significance. Adopting 110 components we can explain 95% of variance in the face, which still makes Subject 1 recognizeable.
@@ -351,7 +351,7 @@ plt.axis('off')
 
 
 
-![png](faces_data_analysis_files/faces_data_analysis_40_1.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_40_1.png)
 
 
 Still looks very similar, but that's just for us. Machine Learning Algorithms can reconize someone using even less components!
@@ -376,5 +376,5 @@ plt.axis('off')
 
 
 
-![png](faces_data_analysis_files/faces_data_analysis_43_1.png)
+![png](..assets/img/faces_data_analysis_files/faces_data_analysis_43_1.png)
 
