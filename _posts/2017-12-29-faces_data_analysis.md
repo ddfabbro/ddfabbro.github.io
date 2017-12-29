@@ -50,11 +50,11 @@ archive = [ZipFile(zip_files[0],'r'),ZipFile(zip_files[1],'r')]
 
 face_db = []
 for name in archive[0].namelist()+archive[1].namelist():
-   try:
-      face = Image.open(StringIO(archive[0].read(name)))
-   except:
-      face = Image.open(StringIO(archive[1].read(name)))
-   face_db.append(np.array(face))
+    try:
+        face = Image.open(StringIO(archive[0].read(name)))
+    except:
+        face = Image.open(StringIO(archive[1].read(name)))
+    face_db.append(np.array(face))
 
 face_db = np.array(face_db)
 ```
@@ -241,11 +241,9 @@ Let's navigante between some of the most important components of my new data. Si
 
 **Note:** Since PCA has the data centered we should start from the average face, which is located at the origin of the feature space. In other words, we navigate across components using:
 
-\begin{equation}
-    mean\_face+w_n*eigenvector_n
-\end{equation}
+<img src="https://latex.codecogs.com/svg.latex?\overline{face}&plus;&space;w_n&space;\cdot&space;v_n" title="\overline{face}+ w_n \cdot v_n" />
 
-where $n$ represents my $n^{th}$ component and $w_n$ the magnitude of this component
+where _n_ represents my _n_ th component, _wn_ the magnitude of this component and _vn_ the eigenvector
 
 ### First Component
 
@@ -293,9 +291,9 @@ for i,w in enumerate([1000*k for k in range(-6,7,2)]):
 
 So far we looked each component independently, but we can compose them as well.
 
-In fact, if we use all components using exactly the same values $w$ for each face, we reconstruct the original face entirely.
+In fact, if we use all components using exactly the same values _w_ for each face, we reconstruct the original face entirely.
 
-Firstly, we find these values $w$. We can easily do so by transforming the 75000 pixel intesities into the new 400 variables.
+Firstly, we find these values _w_. We can easily do so by transforming the 75000 pixel intesities into the new 400 variables.
 
 
 ```python
@@ -304,9 +302,7 @@ pca_face_db = pca.transform(centered_face_db)
 
 Next, we reconstruct a face using a linear combination of the eigenvectors
 
-\begin{equation}
-    face=mean\_face+\sum{}w_n*eigenvector_n
-\end{equation}
+<img src="https://latex.codecogs.com/svg.latex?\overline{face}&plus;\sum&space;w_n&space;\cdot&space;v_n" title="\overline{face}+\sum w_n \cdot v_n" />
 
 ### Reconstructing Subject 1 Face Using 400 Components
 
@@ -328,7 +324,7 @@ plt.axis('off')
 ![png](../assets/img/faces_data_analysis_files/faces_data_analysis_36_1.png)
 
 
-Obviously, we don't all 400 Components to represent a face with statistical significance. Adopting 110 components we can explain 95% of variance in the face, which still makes Subject 1 reconizeable.
+Obviously, we don't need all 400 Components to represent a face with statistical significance. Adopting 110 components we can explain 95% of variance in the face, which still makes Subject 1 recognizeable.
 
 
 ```python
@@ -362,7 +358,7 @@ Still looks very similar, but that's just for us. Machine Learning Algorithms ca
 
 ### Generating a Random Face
 
-This is the cool part. We can generate an entirely new face by using arbitrary values of $w$:
+This is the cool part. We can generate an entirely new face by using arbitrary values of _w_:
 
 
 ```python
