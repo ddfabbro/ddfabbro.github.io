@@ -4,7 +4,7 @@ title: "IPython Tutorials"
 author: "Davi A. Dal Fabbro"
 categories: journal
 tags: [python,jupyter]
-image: eigenfaces.jpg
+image: ipython_tutorials.jpg
 ---
 
 ### [Visualizing PCA on Face Images](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
