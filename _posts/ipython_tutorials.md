@@ -12,6 +12,6 @@ image: eigenfaces.jpg
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. [Read more](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 
-### [Plotting 3D Search Spaces](Plotting 3D Search Spaces)
+### [Plotting 3D Search Spaces](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
 
 ### [Color Map Effects on Face Images](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/colormap_effects.ipynb)
