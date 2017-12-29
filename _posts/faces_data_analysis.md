@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Visualizing PCA on Face Images"
+author: "Davi A. Dal Fabbro"
+categories: journal
+tags: [python,image]
+image: eigenfaces.jpg
+---
 
 # Visualizing PCA on Face Images
 
