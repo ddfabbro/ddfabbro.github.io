@@ -243,7 +243,7 @@ Let's navigante between some of the most important components of my new data. Si
 
 <img src="https://latex.codecogs.com/svg.latex?\overline{face}&plus;&space;w_n&space;\cdot&space;v_n" title="\overline{face}+ w_n \cdot v_n" />
 
-where _n_ represents my _n_ th component, _wn_ the magnitude of this component and _vn_ the eigenvector
+where _n_ represents my _n_ th component, _wn_ the magnitude of this component and _vn_ the eigenvector.
 
 ### First Component
 
