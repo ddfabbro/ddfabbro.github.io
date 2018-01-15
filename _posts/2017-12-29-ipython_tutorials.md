@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "IPython Tutorials"
 author: "Davi A. Dal Fabbro"
 categories: journal
