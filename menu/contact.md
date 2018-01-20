@@ -11,4 +11,4 @@ If that doesn't work you can also concanate 'the first three letters of my last 
 
 **OR**
 
-Convert the following binary number 1111101010111101101000000001 to hexadecimal + '@gmail.com'.
+convert the following binary number 1111101010111101101000000001 to hexadecimal + '@gmail.com'.
