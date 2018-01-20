@@ -15,5 +15,7 @@ The content is exclusively written in Python and the tutorials are mostly on ima
 [![eigenfaces](../assets/img/eigenfaces.jpg)](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 
 ### [Plotting 3D Search Spaces](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
+[![3dspace](../assets/img/3dspace.jpg)](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
 
 ### [Color Map Effects on Face Images](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/colormap_effects.ipynb)
+[![colormaps](../assets/img/colormaps.jpg)](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/colormap_effects.ipynb)
