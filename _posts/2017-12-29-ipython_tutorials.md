@@ -7,17 +7,13 @@ tags: [python,jupyter]
 image: ipython_tutorials.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+This project was created to share some tutorials to help other students in my lab to get going with their own projects.
+
+The content is exclusively written in Python and the tutorials are mostly on image processing and other visualization tools I thought it would be interesting to share.
 
 ### [Visualizing PCA on Face Images](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 [![eigenfaces](../assets/img/eigenfaces.jpg)](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. [Read more](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
-
 ### [Plotting 3D Search Spaces](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. [Read more](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
-
 ### [Color Map Effects on Face Images](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/colormap_effects.ipynb)
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. [Read more](https://github.com/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
