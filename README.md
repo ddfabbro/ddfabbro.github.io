@@ -1,2 +1,5 @@
 # ddfabbro.github.io
-A minimalist Jekyll theme for running a personal blog
+This is the source code for my personal website
+
+### Credits
+[Lagrange: a minimalist Jekyll theme](https://github.com/LeNPaul/Lagrange)
