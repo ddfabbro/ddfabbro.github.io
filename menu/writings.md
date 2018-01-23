@@ -5,8 +5,7 @@ title: Writings
 # [Visualizing PCA on Face Images](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 ![eigenfaces](../assets/img/eigenfaces.jpg)
 The initial purpose of this tutorial was to introduce my colleague, whos a college sophomore in Engineering, an intuitive feeling for Dimensionality Reduction techniques and how to visualize it. I could choose the well-known iris dataset to do this, but I decided to work with data belonging to a much higher feature space - images. 75000 dimensions to be exact. [Read more](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
-
-
+<br><br>
 # [Plotting 3D Search Spaces](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
 ![3dspace](../assets/img/3dspace.jpg)
 As I was making progress on my Master's thesis, I needed to figure a way to show visualizations of functions with 3 variables, so I created a Python script that allows me to visualize it using contour surfaces. This is a tutorial showing how I implemented this Python script and how it helped me gain insights about a function that would otherwise be extremely hard to visualize. [Read more](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/plot3d_seach_space.ipynb)
