@@ -2,6 +2,11 @@
 layout: page
 title: Contact
 ---
+<nav class="social-icons">
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    {% endfor %}
+</nav>
 
 Feel free to ask anything about my projects and writings.
 
