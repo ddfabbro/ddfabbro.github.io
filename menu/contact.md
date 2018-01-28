@@ -2,12 +2,6 @@
 layout: page
 title: Contact
 ---
-<nav class="social-icons">
-    {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
-</nav>
-
 Feel free to ask anything about my projects and writings.
 
 It is usually very easy to get in touch with me. All you have to do is use one of the icons in the header of this page and message me.
