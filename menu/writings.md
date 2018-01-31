@@ -2,6 +2,10 @@
 layout: default
 title: Writings
 ---
+# [Automatic Facial Landmarks Annotation](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
+![landmarks](../assets/img/landmarks.jpg)
+Facial landmarks are an additional information that spatially and geometrically represents the most important features in a face, such as the position of the eyes, nose and mouth as well as the shape of the face. When we talk about image processing, this information is quite helpful to align an image, since the coordinates for these features let us measure tha angle and distance of each eye, for example. [Read more](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
+<br><br>
 # [Visualizing PCA on Face Images](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
 ![eigenfaces](../assets/img/eigenfaces.jpg)
 The initial purpose of this tutorial was to introduce my colleague, whos a college sophomore in Engineering, an intuitive feeling for Dimensionality Reduction techniques and how to visualize it. I could choose the well-known iris dataset to do this, but I decided to work with data belonging to a much higher feature space - images. 75000 dimensions to be exact. [Read more](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/faces_data_analysis.ipynb)
