@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img style="float: right;" src="whatever.jpg">
+<img style="float: right;" src="assets/img/home.jpg">
 
 Aenean ullamcorper malesuada accumsan. Donec iaculis lacinia odio, nec rutrum turpis condimentum quis. Donec porttitor nunc mi, eget accumsan dui porta eu. Aliquam sagittis augue efficitur nunc finibus, nec aliquam sem porttitor. Ut luctus, libero et vehicula sollicitudin, tellus metus malesuada felis, eget efficitur lorem arcu non lectus. Quisque egestas lectus enim, eget placerat mi euismod eu. Duis felis est, molestie auctor justo et, dignissim suscipit est. Curabitur eget dapibus ipsum. Fusce vel lectus scelerisque, luctus urna quis, ultricies purus. Praesent velit nibh, feugiat sit amet interdum in, semper vitae tellus. Aenean bibendum molestie lectus. Fusce commodo id augue et lacinia. In hac habitasse platea dictumst. Mauris faucibus, nisl in malesuada laoreet, nisl magna tempus mi, non ultrices magna nisl in ex. Pellentesque massa urna, dictum a egestas eget, varius sed justo. Quisque iaculis nibh semper libero finibus mattis.
 
@@ -18,5 +18,3 @@ It is usually very easy to get in touch with me. All you have to do is use one o
 If that doesn't work you can also concatenate `the first three letters of my last name` + `the first two letters of my first name` + `01` + `@gmail.com` to send me an e-mail.
 
 Alternatively, you can convert the following string of binary numbers `1111 1010 1011 1101 1010 0000 0001` to hexadecimal + `@gmail.com`.
-
-![home](assets/img/home.jpg)
