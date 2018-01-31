@@ -6,7 +6,6 @@ disqus:
 google-ID: 'UA-113032354-1'
 
 menu:
-- {name: 'Home'}
 - {name: 'Projects', url: 'projects.html'}
 - {name: 'Writings', url: 'writings.html'}
 
