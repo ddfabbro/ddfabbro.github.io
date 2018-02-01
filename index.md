@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 <!--<img align="left" width="150" hspace="20" src="assets/img/home/davi.jpg" usemap="#mapname">
 <map name="mapname">
