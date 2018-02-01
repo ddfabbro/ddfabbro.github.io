@@ -26,5 +26,7 @@ Alternatively, you can convert the following string of binary numbers `1111 1010
 Whether you want to get started with Python for scientific computing, use a LaTeX editor in the cloud or a free lightweight OS, I highly recommend to check out these projects.
 
 <a href="https://www.anaconda.com"><img src="assets/img/home/anaconda.jpg" alt="Anaconda" width="300"></a>
+<br><br>
 <a href="https://www.sharelatex.com"><img src="assets/img/home/sharelatex.jpg" alt="ShareLaTeX" width="300"></a>
+<br><br>
 <a href="https://wiki.ubuntu.com/Lubuntu"><img src="assets/img/home/lubuntu.jpg" alt="Lubuntu" width="300"></a>
