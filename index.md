@@ -11,7 +11,7 @@ I am a Master of Science student at the Department of Electrical Engineering, [F
 
 Whether you're related to my research topics or just visiting, you might enjoy taking a look at my [projects](http://ddfabbro.com/projects.html) and [writings](http://ddfabbro.com/writings.html).
 <br><br>
-## Contact
+### Contact
 
 Feel free to ask anything about my projects and writings.
 
@@ -21,7 +21,7 @@ If that doesn't work you can also concatenate `the first three letters of my las
 
 Alternatively, you can convert the following string of binary numbers `1111 1010 1011 1101 1010 0000 0001` to hexadecimal + `@gmail.com`.
 <br><br>
-## Software I recommend
+### Software I recommend
 
 Whether you want to get started with Python for scientific computing, use a LaTeX editor in the cloud or a free lightweight OS, I highly recommend to check out these projects:
 
