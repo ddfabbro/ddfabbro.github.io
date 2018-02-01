@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "IPython Tutorials"
+layout: default
 ---
 
 # [H1](http://ddfabbro.com)
