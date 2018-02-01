@@ -42,7 +42,7 @@ h1 a, h2 a, h3 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Computer Modern Sans", sans-serif;
+  font-family: "Computer Modern Serif", sans-serif;
   color: #333;
 }
 
@@ -96,7 +96,7 @@ blockquote {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: sans-serif;
+  font-family: "Computer Modern Sans", sans-serif;
 }
 
 /*.masthead a:hover {
@@ -148,7 +148,7 @@ blockquote {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: sans-serif;
+  font-family: "Computer Modern Sans", sans-serif;
   font-size:0.8rem;
 }
 
