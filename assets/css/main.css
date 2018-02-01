@@ -16,14 +16,8 @@
 /*
   Base
 */
-
- @font-face {
-    font-family: "CM_Serif";
-    src: url(cmun-serif.css);
-}
-
 body {
-  font-family: "CM_Serif", sans-serif;
+  font-family: "Computer Modern Serif", sans-serif;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
