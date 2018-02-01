@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Writings
 ---
 ## [Automatic Facial Landmarks Annotation](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
 ![landmarks](assets/img/writings/landmarks.jpg)
