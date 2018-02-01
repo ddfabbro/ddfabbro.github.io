@@ -1,13 +1,12 @@
 <div class="menu">
   <nav class="menu-content">
     <a href="{{ site.github.url }}">Home</a>
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-    {% endfor %}
+    <a href="{{ site.github.url }}/projects.html">Projects</a>
+    <a href="{{ site.github.url }}/writings.html">Writings</a>
   </nav>
   <nav class="social-icons">
-    {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
+    <a href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+    <a href="http://www.linkedin.com/in/davidalfabbro" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    <a href="mailto:fabda01@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
   </nav>
 </div>
