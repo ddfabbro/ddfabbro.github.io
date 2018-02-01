@@ -27,6 +27,6 @@ Whether you want to get started with Python for scientific computing, use a LaTe
 
 <a href="https://www.anaconda.com"><img align="top" hspace="300" src="assets/img/home/anaconda.jpg" alt="Anaconda" width="150"></a>
 <br><br>
-<a href="https://www.sharelatex.com"><img align="top" hspace="300"src="assets/img/home/sharelatex.jpg" alt="ShareLaTeX" width="150"></a>
+<a href="https://www.sharelatex.com"><img align="top" hspace="300" src="assets/img/home/sharelatex.jpg" alt="ShareLaTeX" width="150"></a>
 <br><br>
 <a href="https://wiki.ubuntu.com/Lubuntu"><img align="top" hspace="300" src="assets/img/home/lubuntu.jpg" alt="Lubuntu" width="150"></a>
