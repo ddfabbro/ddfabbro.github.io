@@ -38,7 +38,7 @@ h1{
   font-size: 2rem;
 }
 
-h1, h2, h3 a {
+h1 a, h2 a, h3 a {
   text-decoration: none;
 }
 
