@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img align="left" width="150" hspace="20" src="assets/img/davi.jpg" usemap="#mapname">
+<img align="left" width="150" hspace="20" src="assets/img/home/davi.jpg" usemap="#mapname">
 <map name="mapname">
     <area shape="poly" coords="61,19,80,6,100,23,91,32,81,21,72,29" href="http://evo.shoryuken.com/" alt="EVO">
 </map>
@@ -20,3 +20,11 @@ It is usually very easy to get in touch with me. All you have to do is use one o
 If that doesn't work you can also concatenate `the first three letters of my last name` + `the first two letters of my first name` + `01` + `@gmail.com` to send me an e-mail.
 
 Alternatively, you can convert the following string of binary numbers `1111 1010 1011 1101 1010 0000 0001` to hexadecimal + `@gmail.com`.
+
+# Open source software I recommend to friends
+
+Whether you want to get started with Python for scientific computing, use a LaTeX editor in the cloud or a free lightweight OS, I highly recommend to check out these projects.
+
+[![colormaps](assets/img/home/anaconda.jpg)](https://www.anaconda.com/)
+[![colormaps](assets/img/home/sharelatex.jpg)](https://www.sharelatex.com/)
+[![colormaps](assets/img/home/lubuntu.jpg)](https://wiki.ubuntu.com/Lubuntu)
