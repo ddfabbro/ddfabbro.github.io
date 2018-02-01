@@ -4,7 +4,7 @@ title: Home
 ---
 <img align="left" width="200" height="250" src="assets/img/nopic.jpg">
 
-I am a Master of Science student at the Department of Electrical Engineering, Centro Universitário da FEI (FEI), São Paulo, Brazil. I am a member of the Image Processing Lab where I have a scholarship from CAPES and CNPq/INCT-MACC to work towards my degree as well as participate in research conducted by the lab. My areas of interest are artificial intelligence, mathematical optimization and image processing.
+I am a Master of Science student at the Department of Electrical Engineering, [FEI](http://portal.fei.edu.br/en-us/pages/home.aspx), São Paulo, Brazil. I am a member of the [Image Processing Lab](http://fei.edu.br/~cet/ipl.html) where I have a scholarship from [CAPES](http://www.capes.gov.br/) and [CNPq](http://www.cnpq.br/)/[INCT-MACC](https://macc.lncc.br/) to work towards my degree as well as to participate in research conducted by the lab. My areas of interest are artificial intelligence, mathematical optimization and image processing.
 
 Whether you're related to my research topics or just visiting, you might enjoy taking a look at my projects and writings.
 
