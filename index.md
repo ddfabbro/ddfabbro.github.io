@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img align="left" width="150" hspace="20" src="assets/img/davi.jpg" usemap="#mapname>
+<img align="left" width="150" hspace="20" src="assets/img/davi.jpg" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="0,0,20,20" href="http://evo.shoryuken.com/" alt="EVO">
 </map>
