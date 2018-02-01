@@ -8,4 +8,4 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-title:		           'Davi A. Dal Fabbro'
+title:               'Davi A. Dal Fabbro'
