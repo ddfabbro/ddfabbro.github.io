@@ -2,7 +2,12 @@
 layout: default
 title: Home
 ---
-<img align="left" width="150" hspace="20" src="assets/img/davi.jpg">I am a Master of Science student at the Department of Electrical Engineering, [FEI](http://portal.fei.edu.br/en-us/pages/home.aspx), São Paulo, Brazil. I am a member of the [Image Processing Lab](http://fei.edu.br/~cet/ipl.html) where I have a scholarship from [CAPES](http://www.capes.gov.br/) and [CNPq](http://www.cnpq.br/)/[INCT-MACC](https://macc.lncc.br/) to work towards my degree as well as to participate in research conducted by the lab. My areas of interest are artificial intelligence, mathematical optimization and image processing.
+<img align="left" width="150" hspace="20" src="assets/img/davi.jpg" usemap="#mapname
+<map name="mapname">
+    <area shape="rect" coords="0,0,20,20" href="http://evo.shoryuken.com/" alt="EVO">
+</map>
+
+I am a Master of Science student at the Department of Electrical Engineering, [FEI](http://portal.fei.edu.br/en-us/pages/home.aspx), São Paulo, Brazil. I am a member of the [Image Processing Lab](http://fei.edu.br/~cet/ipl.html) where I have a scholarship from [CAPES](http://www.capes.gov.br/) and [CNPq](http://www.cnpq.br/)/[INCT-MACC](https://macc.lncc.br/) to work towards my degree as well as to participate in research conducted by the lab. My areas of interest are artificial intelligence, mathematical optimization and image processing.
 
 Whether you're related to my research topics or just visiting, you might enjoy taking a look at my [projects](http://ddfabbro.com/projects.html) and [writings](http://ddfabbro.com/writings.html).
 
