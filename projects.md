@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Projects
 ---
 ## [SANRR](https://github.com/ddfabbro/SANRR)
 A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK
