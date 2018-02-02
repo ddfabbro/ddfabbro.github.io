@@ -12,7 +12,11 @@ I am a Master of Science student at the Department of Electrical Engineering, <a
 
 Whether you're related to my areas of interest or just visiting, you might discover something interesting by navigating through these pages:
 
-<p align="center">[[**Projects**](http://ddfabbro.com/menu/projects.html) | [**Writings**](http://ddfabbro.com/menu/writings.html) | [**Misc**](http://ddfabbro.com/menu/misc.html)]</p>
+<p align="center">
+    [ <a href="http://ddfabbro.com/menu/projects.html">Projects</a> 
+    | <a href="http://ddfabbro.com/menu/writings.html">Writings</a> 
+    | <a href="http://ddfabbro.com/menu/misc.html">Misc</a> ]
+</p>
 <br><br>
 ## Contact
 
