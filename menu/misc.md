@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Misc
+permalink: /menu/
 ---
 ## Software I recommend
 
