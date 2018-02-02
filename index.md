@@ -12,11 +12,11 @@ I am a Master of Science student at the Department of Electrical Engineering, <a
 
 Whether you're related to my research topics or just visiting, you might enjoy looking at my [Projects](http://ddfabbro.com/projects.html) and [Writings](http://ddfabbro.com/writings.html)
 <br><br>
-## Contact
+## Contacts
 
 Feel free to reach me out. It is usually very easy to get in touch with me. 
 
-Please, use one of the icons in the footer of this page and send me a message.
+Please, use one of the icons in the footer of this page to find my contacts.
 <br><br>
 ## Software I recommend
 
