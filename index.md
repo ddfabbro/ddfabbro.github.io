@@ -9,7 +9,7 @@ title: Home
 ## About
 I am a Master of Science student at the Department of Electrical Engineering, <a href="http://www2.fei.edu.br/internacional/en/welcome-to-fei/" target="_blank">FEI</a>, São Paulo, Brazil. I am a member of the <a href="http://fei.edu.br/~cet/ipl.html" target="_blank">Image Processing Lab</a>, where I have a scholarship from <a href="http://www.capes.gov.br/" target="_blank">CAPES</a> and <a href="http://www.cnpq.br/" target="_blank">CNPq</a>/<a href="https://macc.lncc.br/" target="_blank">INCT-MACC</a> to work towards my degree as well as to collaborate with the lab on research and lectures. My areas of interest are artificial intelligence, mathematical optimization and image processing.
 
-Whether you're related to my research topics or just visiting, you might enjoy looking at my [**Projects**](http://ddfabbro.com/projects.html) and [**Writings**](http://ddfabbro.com/writings.html)
+Whether you're related to my research topics or just visiting, you might enjoy looking at my [Projects](http://ddfabbro.com/projects.html) and [Writings](http://ddfabbro.com/writings.html)
 <br><br>
 ## Contact
 
