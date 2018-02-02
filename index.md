@@ -14,9 +14,9 @@ Whether you're related to my research topics or just visiting, you might enjoy l
 <br><br>
 ## Contact
 
-Feel free to ask anything about my projects and writings.
+Feel free to reach me out. It is usually very easy to get in touch with me. 
 
-It is usually very easy to get in touch with me. Please, use one of the icons in the footer of this page and message me.
+Please, use one of the icons in the footer of this page and send me a message.
 <br><br>
 ## Software I recommend
 
