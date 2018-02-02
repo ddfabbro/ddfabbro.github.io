@@ -3,6 +3,8 @@
   <h3 class="masthead-title">
     
     <a>{{ page.title }}</a>
+    {% if page.title != site.title %}
+       Home - {{ site.title }}
     
     <!--<div class="menu">
       <nav class="menu-content">
