@@ -247,7 +247,6 @@ blockquote {
 .social-icons a {
   color: #999;
   font-size: 1rem;
-  padding: 0;
 }
 
 @media (max-width: 30em) {
