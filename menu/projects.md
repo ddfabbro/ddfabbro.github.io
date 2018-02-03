@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 ---
-**SANRR:** A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK \[<span style="display:inline-block; vertical-align:middle"><i class="fab fa-github fa-sm"></i></span>\]
+**SANRR:** A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK \[<span style="display:inline-block; vertical-align:top"><i class="fab fa-github fa-sm"></i></span>\]
 <br><br>
 **pyOOopt:** A metaphoric approach to optimization algorithms using object orientation in Python \[<span style="display:inline-block; vertical-align:middle"><a href="https://www.github.com/ddfabbro" target="_blank"><i class="fab fa-github fa-sm"></i></a></span>\]
 <br><br>
