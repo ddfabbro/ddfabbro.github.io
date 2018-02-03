@@ -2,8 +2,8 @@
 layout: default
 title: Projects
 ---
-**SANRR:** A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK <span href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></span>
+**SANRR:** A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK <a href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 <br><br>
-**pyOOopt:** A metaphoric approach to optimization algorithms using object orientation in Python <span href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></span>
+**pyOOopt:** A metaphoric approach to optimization algorithms using object orientation in Python <a href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 <br><br>
-**entropy:** A Python module that calculates information metrics according to Shannon's information theory <span href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></span>
+**entropy:** A Python module that calculates information metrics according to Shannon's information theory <a href="https://www.github.com/ddfabbro" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
