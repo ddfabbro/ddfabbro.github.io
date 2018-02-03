@@ -14,8 +14,8 @@ Whether you're related to my areas of interest or just visiting, you might disco
 
 \[ [**Projects**](http://ddfabbro.com/menu/projects.html) | [**Writings**](http://ddfabbro.com/menu/writings.html) | [**Misc**](http://ddfabbro.com/menu/misc.html) \]
 <br><br>
-## Contact
+<!--## Contact-->
 
-Feel free to reach me out. It is usually very easy to get in touch with me. 
+<!--Feel free to reach me out. It is usually very easy to get in touch with me.-->
 
-Please, use one of the icons in the footer of this page to find my contacts.
+<!--Please, use one of the icons in the footer of this page to find my contacts.-->
