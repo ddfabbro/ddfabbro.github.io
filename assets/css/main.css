@@ -391,7 +391,7 @@ th, td {
 }
 
 .fa-github {
-  padding: 0px;
+  padding: 5px;
 	-o-transition:.5s;
   	-ms-transition:.5s;
   	-moz-transition:.5s;
@@ -430,7 +430,7 @@ th, td {
 }
 
 .fa-home {
-  padding: 0px;
+  padding: 5px;
 	-o-transition:.5s;
   	-ms-transition:.5s;
   	-moz-transition:.5s;
