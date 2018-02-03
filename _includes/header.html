@@ -5,13 +5,12 @@
     {% if page.title == site.title %}
       <a>{{ site.title }}</a>
     {% else %}
-      <a>{{ page.title }} - {{ site.title }}</a>
-      <!--<div style="float: left">
-        <a href="http://ddfabbro.com"><i class="fa fa-home" aria-hidden="true"></i></a>
+      <div style="float: left">
+        <a>{{ page.title }} - {{ site.title }}</a>
       </div>
-      <div style="margin: 0 auto; width: 100px;">
-        <a>{{ page.title }}</a>
-      </div>-->
+      <div style="float: right">
+        <a href="http://ddfabbro.com"><i class="fas fa-home" aria-hidden="true"></i></a>
+      </div>
     {% endif %}
     
   </h3>
