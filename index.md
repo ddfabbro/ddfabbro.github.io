@@ -3,7 +3,7 @@ layout: default
 title: Davi A. Dal Fabbro
 ---
 
-<img align="left" width="150" hspace="10" src="assets/img/home/davi.jpg" usemap="#mapname">
+<img align="left" width="150" hspace="20" src="assets/img/home/davi.jpg" usemap="#mapname">
 <!--<map name="mapname">
     <area shape="poly" coords="65,19,79,8,96,23,91,28,81,17,71,25" href="http://evo.shoryuken.com/" alt="EVO">
 </map>-->
