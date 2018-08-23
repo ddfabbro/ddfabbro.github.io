@@ -442,6 +442,19 @@ th, td {
 	color: black;
 }
 
+.fa-docker {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-docker:hover {
+	color: #0db7ed;
+}
+
 .fa-google-plus {
   padding: 5px;
 	-o-transition:.5s;
