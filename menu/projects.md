@@ -2,8 +2,12 @@
 layout: default
 title: Projects
 ---
-**SANRR:** A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK \[<span style="display:inline-block; vertical-align:top"><a href="https://www.github.com/ddfabbro/SANRR" target="_blank"><i class="fab fa-github fa-sm"></i></a></span>\]
+[**SANRR:**](https://github.com/ddfabbro/SANRR) A Python framework for Surrogate Assisted Nonrigid Registration (SANRR) using MIRTK
 <br><br>
-**pyOOopt:** A metaphoric approach to optimization algorithms using object orientation in Python \[<span style="display:inline-block; vertical-align:top"><a href="https://www.github.com/ddfabbro/pyOOopt" target="_blank"><i class="fab fa-github fa-sm"></i></a></span>\]
+[**pyOOopt:**](https://github.com/ddfabbro/pyOOopt) A metaphoric approach to optimization algorithms using object orientation in Python
 <br><br>
-**entropy:** A Python module that calculates information metrics according to Shannon's information theory \[<span style="display:inline-block; vertical-align:top"><a href="https://www.github.com/ddfabbro/entropy" target="_blank"><i class="fab fa-github fa-sm"></i></a></span>\]
+[**entropy:**](https://github.com/ddfabbro/entropy) A minimal Python module that calculates information metrics according to Shannon's information theory 
+<br><br>
+[**expvar-pca:**](https://github.com/ddfabbro/expvar-pca) Extension of PCA class from scikit-learn to fit data according desired explained variance 
+<br><br>
+[**docker-dolphin:**](https://github.com/ddfabbro/docker-dolphin) Dockerfiles for building Dolphin Emulator, Ishiiruka and Faster Melee
