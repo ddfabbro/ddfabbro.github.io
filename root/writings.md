@@ -2,6 +2,8 @@
 layout: default
 title: Writings
 ---
+## [Similarity and Affine Transformations of 2D Face Images](https://nbviewer.jupyter.org/github/ddfabbro/AffineFace/blob/master/notebook_example.ipynb)
+<br><br>
 ## [Automatic Facial Landmarks Annotation](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
 ![landmarks](../assets/img/writings/landmarks.jpg)
 Facial landmarks are an additional information that spatially and geometrically represents the most important features in a face, such as the position of the eyes, nose and mouth as well as the shape of the face. When we talk about image processing, this information is quite helpful to align an image, since the coordinates for these features let us measure tha angle and distance of each eye, for example. [Read more](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
