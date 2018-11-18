@@ -2,7 +2,7 @@
 layout: default
 title: Writings
 ---
-## [Similarity and Affine Transformations of 2D Face Images](https://nbviewer.jupyter.org/github/ddfabbro/AffineFace/blob/master/notebook_example.ipynb)
+## [Similarity and Affine Transformations of 2D Face Images](https://nbviewer.jupyter.org/github/ddfabbro/AffineFace/blob/master/examples/notebook_example.ipynb)
 ![alignment](img/alignment.jpg)
 <br><br>
 ## [Automatic Facial Landmarks Annotation](https://nbviewer.jupyter.org/github/ddfabbro/ipython_tutorial/blob/master/my_notebooks/facial_landmarks.ipynb)
