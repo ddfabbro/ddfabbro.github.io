@@ -2,6 +2,9 @@
 layout: default
 title: Writings
 ---
+## [Nonrigid Registration of 2D Face Images](https://nbviewer.jupyter.org/github/ddfabbro/AffineFace/blob/master/examples/nonrigid_face.ipynb)
+![alignment](img/nonrigid.jpg)
+<br><br>
 ## [Similarity and Affine Transformations of 2D Face Images](https://nbviewer.jupyter.org/github/ddfabbro/AffineFace/blob/master/examples/notebook_example.ipynb)
 ![alignment](img/alignment.jpg)
 <br><br>
