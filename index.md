@@ -7,7 +7,6 @@ title: Davi A. Dal Fabbro
 img
 {
     max-width: 100%;
-    width: 150px;
     height: auto;
 }
 </style>
