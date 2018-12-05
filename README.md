@@ -15,4 +15,6 @@ If necessary, dependencies should be installed with
 gem install bundler jekyll
 ```
 
+## Credits
+
 **Design adapted from [Lagrange: a minimalist Jekyll theme](https://github.com/LeNPaul/Lagrange)**
