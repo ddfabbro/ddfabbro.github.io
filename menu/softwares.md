@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Softwares I recommend
+title: Recommended Softwares
 ---
 
 Whether you want to get started with Python for scientific computing, use a LaTeX editor in the cloud or a free lightweight OS, I highly recommend checking out these projects (for the 3D printing open-source software ecosystem, please refer to my [3D printing page](/menu/3dprinting.html)):

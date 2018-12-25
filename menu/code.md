@@ -8,7 +8,7 @@ title: Code
 <br><br>
 [**entropy:**](https://github.com/ddfabbro/entropy) A minimal Python module that calculates information metrics according to Shannon's information theory 
 <br><br>
-[**expvar-pca:**](https://github.com/ddfabbro/expvar-pca) Extension of PCA class from scikit-learn to fit data according desired explained variance 
+[**expvar-pca:**](https://github.com/ddfabbro/expvar-pca) Extension of PCA class from scikit-learn to fit data according to desired explained variance 
 <br><br>
 [**caffe-tucker-decomposition:**](https://github.com/ddfabbro/caffe-tucker-decomposition) Caffe implementation of tucker tensor decomposition for convolutional layers 
 <br><br>

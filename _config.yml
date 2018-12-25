@@ -1,11 +1,6 @@
 # Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
-
-# Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-sitemap, jekyll-seo-tag]
 title:               'Davi A. Dal Fabbro'

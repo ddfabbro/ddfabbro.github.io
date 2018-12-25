@@ -3,7 +3,7 @@ layout: default
 title: 3D Printing
 ---
 
-## TEVO Tarantula + Octoprint
+## TEVO Tarantula
 
 ![tarantula](/assets/img/3dprinting/tarantula.jpg)
 
